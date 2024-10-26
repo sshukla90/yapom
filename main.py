@@ -1,1 +1,1 @@
-helllo
+from nornir import InitNornir
